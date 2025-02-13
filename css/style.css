@@ -344,6 +344,7 @@ hr {
     height: 200px;
     object-fit: cover;
     border-radius: 10%;
+    box-shadow: gray 0 30px 40px 0;
 }
 
 .contacte {
